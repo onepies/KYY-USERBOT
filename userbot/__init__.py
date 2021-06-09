@@ -423,11 +423,11 @@ with bot:
                     buttons=[
                         [
                             custom.Button.url(
-                                "Repo Lord-Userbot",
-                                "https://github.com/Zora24/Lord-Userbot"),
+                                "Repo IKYY-Userbot",
+                                "https://github.com/onepies/KYY-USERBOT"),
                             custom.Button.url(
                                 "Pemilik Repo",
-                                "t.me/liualvinas")],
+                                "t.me/boyfriendnice")],
                     ],
                     link_preview=False,
                 )
