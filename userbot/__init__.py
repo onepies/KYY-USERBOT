@@ -427,7 +427,7 @@ with bot:
                                 "https://github.com/Zora24/Lord-Userbot"),
                             custom.Button.url(
                                 "Pemilik Repo",
-                                "t.me/boyfriendnice")],
+                                "t.me/liualvinas")],
                     ],
                     link_preview=False,
                 )
