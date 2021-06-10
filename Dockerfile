@@ -1,4 +1,4 @@
-# IKYY USERBOT
+# LORD USERBOT
 FROM koala21/kampangbot:buster
 
 #
