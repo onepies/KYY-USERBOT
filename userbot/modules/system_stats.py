@@ -227,10 +227,10 @@ async def pipcheck(pip):
 async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
-    await alive.edit("`I'M ALIVE!`")
+    await alive.edit("`I'M IKYY!`")
     await alive.edit("⚡")
     output = (
-        f" **┗┓IKYY USERBOT┏┛** \n"
+        f" **┗┓𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓┏┛** \n"
         f"\n__**{LORD_TEKS_KUSTOM}**__\n"
         f"**━━━━━━━━━━━━━━━━━━━━**\n"
         f"**♛ ʟᴏʀᴅ** \n"
@@ -269,7 +269,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**▬▬▬▬▬▬❙۩♛۩❙▬▬▬▬▬▬**\n"
-        f"     **🦇 IYYY USERBOT 🦇** \n\n"
+        f"     **⚔ [𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓] ⚔** \n\n"
         f"❃ **Lord**     \n   ➥ `{DEFAULTUSER}` \n"
         f"❃ **Username** \n   ➥ `@{user.username}` \n"
         f"❃ **Telethon** \n   ➥ `Versi {version.__version__}` \n"
@@ -302,10 +302,10 @@ async def amireallyalive(alive):
 async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
-    await alive.edit("`I'M ALIVE!`")
+    await alive.edit("`I'M IKYY!`")
     await alive.edit("⚡")
     output = (
-        f"**🦇 IKYY USERBOT 🦇** \n\n"
+        f"**⚔[𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓]⚔** \n\n"
         f"┏━━━━━━━━━━━━━━━━━━━ \n"
         f"┣|• `Lord     :`{DEFAULTUSER} \n"
         f"┣|• `Username :`@{user.username} \n"
