@@ -423,8 +423,8 @@ with bot:
                     buttons=[
                         [
                             custom.Button.url(
-                                "Repo IKYY-Userbot",
-                                "https://github.com/onepies/KYY-USERBOT"),
+                                "Repo Lord-Userbot",
+                                "https://github.com/Zora24/Lord-Userbot"),
                             custom.Button.url(
                                 "Pemilik Repo",
                                 "t.me/boyfriendnice")],
