@@ -276,7 +276,7 @@ async def amireallyalive(alive):
         f"❃ **Python**   \n   ➥ `Versi {python_version()}` \n"
         f"❃ **Versi Bot**\n   ➥ `{BOT_VER}` \n"
         f"❃ **Modul**    \n   ➥ `{len(modules)}` \n\n"
-        f"❃ **Repo Userbot:** [Ikyy-Userbot](https://github.com/onepies/KYY-USERBOT)\n❃ **Grup Me: **[Tekan](t.me/VirtusSupportGroup)\n❃ **Pemilik:** [IKYYY](t.me/boyfriendnice)\n"
+        f"❃ **Channel:** [Channel](t.me/MusikManagement)\n❃ **Grup Support: **[Tekan](t.me/VirtusSupportGroup)\n❃ **Pemilik:** [IKYYY](t.me/boyfriendnice)\n"
         f"**▬▬▬▬▬▬❙۩★۩❙▬▬▬▬▬▬**")
     if ALIVE_LOGO:
         try:
@@ -315,7 +315,7 @@ async def amireallyalive(alive):
         f"┣|• `Bot Ver  :`{BOT_VER} \n"
         f"┣|• `Modules  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━ \n\n"
-        f"[Repo](https://github.com/onepies/KYY-USERBOT) | [Grup Support](t.me/VirtusSupportGroup) | [Owner](t.me/boyfriendnice)")
+        f"[Channel](t.me/MusikManagement) | [Grup Support](t.me/VirtusSupportGroup) | [Owner](t.me/boyfriendnice)")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
