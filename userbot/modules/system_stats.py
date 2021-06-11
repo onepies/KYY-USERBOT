@@ -223,14 +223,14 @@ async def pipcheck(pip):
         await pip.edit("Gunakan `.help pip` Untuk Melihat Contoh")
 
 
-@register(outgoing=True, pattern=r"^\.(?:lord|lordon)\s?(.)?")
+@register(outgoing=True, pattern=r"^\.(?:kyy|kyyon)\s?(.)?")
 async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     await alive.edit("`I'M IKYY!`")
     await alive.edit("⚡")
     output = (
-        f" **┗┓𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓┏┛** \n"
+        f" **▬▬▬▬▬▬❙۩⚔𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔۩❙▬▬▬▬▬▬** \n"
         f"\n__**{LORD_TEKS_KUSTOM}**__\n"
         f"**━━━━━━━━━━━━━━━━━━━━**\n"
         f"**♛ ʟᴏʀᴅ** \n"
