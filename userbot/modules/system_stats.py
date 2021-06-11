@@ -230,7 +230,7 @@ async def amireallyalive(alive):
     await alive.edit("`I'M IKYY!`")
     await alive.edit("⚡")
     output = (
-        f" **▬▬▬▬❙۩⚔𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔۩❙▬▬▬▬** \n"
+        f" **▬▬❙⚔𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔❙▬▬** \n"
         f"\n__**{LORD_TEKS_KUSTOM}**__\n"
         f"**━━━━━━━━━━━━━━━━━━━━**\n"
         f"**♛ ʟᴏʀᴅ** \n"
@@ -269,7 +269,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**▬▬▬▬▬▬❙۩♛۩❙▬▬▬▬▬▬**\n"
-        f"     **⚔ [𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓] ⚔** \n\n"
+        f"     **⚔[𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓]⚔** \n\n"
         f"❃ **Lord**     \n   ➥ `{DEFAULTUSER}` \n"
         f"❃ **Username** \n   ➥ `@{user.username}` \n"
         f"❃ **Telethon** \n   ➥ `Versi {version.__version__}` \n"
