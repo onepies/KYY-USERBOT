@@ -230,18 +230,21 @@ async def amireallyalive(alive):
     await alive.edit("`I'M IKYY!`")
     await alive.edit("⚡")
     output = (
-        f" **▬▬❙⚔𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔❙▬▬** \n"
-        f"\n__**{LORD_TEKS_KUSTOM}**__\n"
-        f"**━━━━━━━━━━━━━━━━━━━━**\n"
-        f"**♛ ʟᴏʀᴅ** \n"
+        f" **╭╼═✯═════════════✯╾╮
+ ㅤ★ ⚔𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔ ★ 
+╰╼═✯═════════════✯╾╯** \n"
+        f"\n__**╭╼════════════════╾╮⇱{LORD_TEKS_KUSTOM}⇲**__\n"
+        f"**│  
+┟╼════════════════╾┤**\n"
+        f"**🤴 ʟᴏʀᴅ** \n"
         f" ➥ `{DEFAULTUSER}` \n"
-        f"**♛ ᴜsᴇʀɴᴀᴍᴇ** \n"
+        f"**🔎 ᴜsᴇʀɴᴀᴍᴇ** \n"
         f" ➥ `@{user.username}` \n"
         f"┏━━━━━━━━━━━━━━━━━━━\n"
-        f"┣[• `Telethon :`Ver {version.__version__} \n"
-        f"┣[• `Python   :`Ver {python_version()} \n"
-        f"┣[• `Bot Ver  :`{BOT_VER} \n"
-        f"┣[• `Modules  :`{len(modules)} Modules \n"
+        f"┣[• ⚙️`Telethon :`Ver {version.__version__} \n"
+        f"┣[• 🐍`Python   :`Ver {python_version()} \n"
+        f"┣[• 👾`Bot Ver  :`{BOT_VER} \n"
+        f"┣[• 📂`Modules  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━")
     if ALIVE_LOGO:
         try:
@@ -305,15 +308,17 @@ async def amireallyalive(alive):
     await alive.edit("`I'M IKYY!`")
     await alive.edit("⚡")
     output = (
-        f"**⚔[𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓]⚔** \n\n"
+        f"**╭╼═✯═════════════✯╾╮
+ ㅤ★ ⚔𝐈𝐊𝐘𝐘-𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔ ★ 
+╰╼═✯═════════════✯╾╯** \n\n"
         f"┏━━━━━━━━━━━━━━━━━━━ \n"
-        f"┣|• `Lord     :`{DEFAULTUSER} \n"
-        f"┣|• `Username :`@{user.username} \n"
-        f"┣|• `Telethon :`Ver {version.__version__} \n"
-        f"┣|• `Python   :`Ver {python_version()} \n"
-        f"┣|• `Branch   :`{UPSTREAM_REPO_BRANCH} \n"
-        f"┣|• `Bot Ver  :`{BOT_VER} \n"
-        f"┣|• `Modules  :`{len(modules)} Modules \n"
+        f"┣|• 🤴`Lord     :`{DEFAULTUSER} \n"
+        f"┣|• 🔎`Username :`@{user.username} \n"
+        f"┣|• ⚙️`Telethon :`Ver {version.__version__} \n"
+        f"┣|• 🐍`Python   :`Ver {python_version()} \n"
+        f"┣|• 🛠️`Branch   :`{UPSTREAM_REPO_BRANCH} \n"
+        f"┣|• 👾`Bot Ver  :`{BOT_VER} \n"
+        f"┣|• 📂`Modules  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━ \n\n"
         f"[Repo](https://github.com/onepies/KYY-USERBOT) | [Grup Support](t.me/VirtusSupportGroup) | [Owner](t.me/boyfriendnice)")
     if ALIVE_LOGO:
