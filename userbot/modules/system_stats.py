@@ -315,7 +315,7 @@ async def amireallyalive(alive):
         f"┣|• `Bot Ver  :`{BOT_VER} \n"
         f"┣|• `Modules  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━ \n\n"
-        f"[Channel](t.me/MusikManagement) | [Grup Support](t.me/VirtusSupportGroup) | [Owner](t.me/boyfriendnice)")
+        f"[Repo](https://github.com/onepies/KYY-USERBOT) | [Grup Support](t.me/VirtusSupportGroup) | [Owner](t.me/boyfriendnice)")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
